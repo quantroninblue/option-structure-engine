@@ -1,0 +1,31 @@
+[
+  {
+    "spot": 6795.0,
+    "legs": [
+      {
+        "option_type": "put",
+        "strike": 6761.11,
+        "weight": 1
+      },
+      {
+        "option_type": "put",
+        "strike": 6829.06,
+        "weight": -1
+      },
+      {
+        "option_type": "call",
+        "strike": 6897.69,
+        "weight": -1
+      },
+      {
+        "option_type": "call",
+        "strike": 6967.02,
+        "weight": 1
+      }
+    ],
+    "margin_used": 13728.000000000156,
+    "buying_power": 11271.999999999844,
+    "feasible": true,
+    "t": 1.0683181285858154
+  }
+]
